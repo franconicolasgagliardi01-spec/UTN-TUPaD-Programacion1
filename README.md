@@ -1,11 +1,15 @@
-💻 Programación 1
+💻 Programación 1  
+
 Tecnicatura Universitaria en Programación
 📍 Universidad Tecnológica Nacional
 
-✨ Estudiante
-Nombre: Franco Nicolás Gagliardi
-Comisión: 1Pro1
-📂 Descripción del Repositorio
+✨ Estudiante  
+
+Nombre: Franco Nicolás Gagliardi  
+Comisión: 1Pro1  
+
+📂 Descripción del Repositorio  
+
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Programación 1.
 
 📌 Estructura del repositorio:
