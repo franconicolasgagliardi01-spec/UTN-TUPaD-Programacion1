@@ -3,9 +3,13 @@
 Tecnicatura Universitaria en Programación
 📍 Universidad Tecnológica Nacional
 
-✨ Estudiante  
+✨ Estudiantes
 
-Nombre: Franco Nicolás Gagliardi  
+-Franco Nicolás Gagliardi  
+-Santiago Copia  
+-Ramiro Quiroga  
+-Ignacio Ceballos    
+
 Comisión: 1Pro1  
 
 📂 Descripción del Repositorio  
